@@ -4,6 +4,6 @@
 Javascript array exercises
 
 ### Few exercises
-### Remove duplicate items from array list
-### Palindrome
-### Return min/max from array list
+* Remove duplicate items from array list
+* Palindrome
+* Return min/max from array list
