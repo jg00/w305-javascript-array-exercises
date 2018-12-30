@@ -1,4 +1,4 @@
-###### w305-javascript-array-exercises
+## Javascript Array Exercises
 
 ### Repository Notes
 Javascript array exercises
